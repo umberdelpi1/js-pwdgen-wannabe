@@ -20,4 +20,4 @@ cognomeUtente = prompt(" Inserisci il tuo cognome ")
 colorePreferitoUtente = prompt("Inserisci il tuo colore preferito")
 
 // Output con nome_cognome_colorepreferito Utente
-document.getElementById('my_id').innerHTML= nomeUtente + cognomeUtente + colorePreferitoUtente;
+document.getElementById('my_id').innerHTML="La password è: " + nomeUtente + cognomeUtente + colorePreferitoUtente;
